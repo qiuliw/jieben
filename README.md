@@ -9,19 +9,15 @@
 
 把近五年的真题和JXN模拟做了完全够用
 
-[真题-23](https://www.alipan.com/s/EvE3A8r928e)
+真题
+https://www.alipan.com/s/mMzKRQPnpQu
 
-[jxn23](https://www.alipan.com/s/6eXY5HYTPxt)
-
-[Jxn22]()
-
-
-
-
-
-
+套题
+https://www.alipan.com/s/nsPMYPjf56G
 
 [C语言大一大二练习](https://www.nowcoder.com/ta/beginner-programmers-v1) 刷完C就基本入门了
 
+
+接本同高考和考研比简单太多，不用焦虑，是个人就行
 
 
