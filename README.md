@@ -25,6 +25,9 @@ https://www.alipan.com/s/mMzKRQPnpQu
 套题
 https://www.alipan.com/s/nsPMYPjf56G
 
+其他卷子
+https://www.alipan.com/s/iCuZQu4VDJx
+
 数学题的讲解可以看b站 【高等数学数学陈老师】
 
 [C语言大一大二练习](https://www.nowcoder.com/ta/beginner-programmers-v1) 刷完C就基本入门了
